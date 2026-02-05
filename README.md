@@ -1,11 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=200&section=header&text=宜しく%20WELCOME&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=200&section=header&text=宜しく%20WELCOME&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</picture>
+<div align="center">
 
-# You've arrived at Mars. 🚀
+# 宜しく WELCOME TO SAL'S STATION 🚀
 
 ### حياكم الله
+
+<img src="https://raw.githubusercontent.com/sal-jim/WDYM-Personal/master/src/Pop-art.png" width="280" alt="Pop art portrait by Roberlan"/>
+
+<sub>Art by [Roberlan](https://dribbble.com/roberlan)</sub>
+
+</div>
+
+---
 
 I'm **Sal** — a designer who builds things. I take products from zero to beautifully designed, user-ready interfaces.
 
@@ -23,7 +28,7 @@ My work in quantum computing focuses on making the complex accessible:
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 | | Project | Description |
 |--|---------|-------------|
@@ -44,12 +49,5 @@ My work in quantum computing focuses on making the complex accessible:
 
 ## 🌐 Connect
 
-🔗 [**sal-jim.github.io/WDYM-Personal**](https://sal-jim.github.io/WDYM-Personal) — More about me  
+🔗 [**sal-jim.github.io/WDYM-Personal**](https://sal-jim.github.io/WDYM-Personal)  
 📧 **sal@sellou.com**
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=100&section=footer"/>
-</picture>
