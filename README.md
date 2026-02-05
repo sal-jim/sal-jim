@@ -1,52 +1,55 @@
-# Hi, I'm Salman 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=200&section=header&text=宜しく%20WELCOME&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=200&section=header&text=宜しく%20WELCOME&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</picture>
 
-⚛️ Quantum Computing Researcher | 🛠️ Builder | 🐱 Cat Enthusiast
+# You've arrived at Mars. 🚀
 
----
+### حياكم الله
 
-## 🔬 Background
+I'm **Sal** — a designer who builds things. I take products from zero to beautifully designed, user-ready interfaces.
 
-I come from the world of **quantum computing** — exploring the boundaries of computation at the quantum level. Now I'm channeling that curiosity into building delightful software experiences.
-
----
-
-## 🚀 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| 🥚 [**tama-assist**](https://github.com/sal-jim/tama-assist) | A tamagotchi-inspired AI assistant. Hatch it, care for it, command it. |
-| 🐱 [**mini-cat-url**](https://github.com/sal-jim/mini-cat-url) | A cozy, cat-themed URL shortener — no backend required. |
+> *"Simplicity is the ultimate sophistication."*
+> 
+> A simple interface with complex backend hidden from view creates experiences beyond the imaginable.
 
 ---
 
 ## ⚛️ Quantum Computing
 
-My research background includes work in quantum algorithms and quantum information theory. I'm passionate about making complex systems intuitive and accessible.
+My work in quantum computing focuses on making the complex accessible:
+
+🔮 [**Elyah**](https://elyah.io) — Quantum Computing, Redesigned
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Projects
+
+| | Project | Description |
+|--|---------|-------------|
+| 🥚 | [**tama-assist**](https://github.com/sal-jim/tama-assist) | Tamagotchi-inspired AI assistant. Hatch it, care for it, command it. |
+| 🐱 | [**mini-cat-url**](https://github.com/sal-jim/mini-cat-url) | Cozy cat-themed URL shortener — no backend, just purrs. |
+| 🏷️ | [**Sellou**](https://sellou.com) | Tag what you love. |
+
+---
+
+## 🛠️ Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 🌐 Connect
 
-![sal-jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal-jim&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🌟 Philosophy
-
-> Ship it. Learn from it. Iterate.
-
-I believe in building things that spark joy — whether that's a virtual pet or a URL shortener with personality.
+🔗 [**sal-jim.github.io/WDYM-Personal**](https://sal-jim.github.io/WDYM-Personal) — More about me  
+📧 **sal@sellou.com**
 
 ---
 
-*Currently building at the intersection of AI and whimsy* ✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:f7931e&height=100&section=footer"/>
+</picture>
