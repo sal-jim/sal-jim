@@ -4,7 +4,7 @@
 
 ### حياكم الله
 
-<img src="[https://raw.githubusercontent.com/sal-jim/WDYM-Personal/master/src/Pop-art.png](https://cdn.dribbble.com/userupload/46358096/file/953346dbbed081f7ccd553b4e01a2923.png?resize=1504x1128&vertical=center)" width="280" alt="Pop art portrait by Roberlan"/>
+<img src="https://cdn.dribbble.com/userupload/46358096/file/953346dbbed081f7ccd553b4e01a2923.png" width="280" alt="Pop art portrait by Roberlan"/>
 
 <sub>Art by [Roberlan](https://dribbble.com/roberlan)</sub>
 
