@@ -20,6 +20,14 @@ I'm **Sal** — a designer who builds things. I take products from zero to beaut
 
 ---
 
+## 👻 Currently working on:
+
+[**Spookling**](https://spookling.com) is an all-in-one workspace with free Slack-like chat and built-in proprietary AI memory, made to be cheaper and more effective than similar products.
+
+I designed the entire look and experience from the ground up — from picking your character to how the AI interacts with your apps — to create something unique to Spookling's ecosystem.
+
+---
+
 ## ⚛️ Quantum Computing
 
 My work in quantum computing focuses on making the complex accessible:
