@@ -32,6 +32,7 @@ My work in quantum computing focuses on making the complex accessible:
 
 | | Project | Description |
 |--|---------|-------------|
+| 👻 | [**Spookling**](https://spookling.com) | An AI assistant that works for you while you sleep. |
 | 🥚 | [**tama-assist**](https://github.com/sal-jim/tama-assist) | Tamagotchi-inspired AI assistant. Hatch it, care for it, command it. |
 | 🐱 | [**mini-cat-url**](https://github.com/sal-jim/mini-cat-url) | Cozy cat-themed URL shortener — no backend, just purrs. |
 | 🏷️ | [**Sellou**](https://sellou.com) | Tag what you love. |
